@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "кликер 3", "кликер 3\кликер 3.csproj", "{53FB1D00-F4C1-4220-8DFA-3A1EE9C2377A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FB1D00-F4C1-4220-8DFA-3A1EE9C2377A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FB1D00-F4C1-4220-8DFA-3A1EE9C2377A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FB1D00-F4C1-4220-8DFA-3A1EE9C2377A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FB1D00-F4C1-4220-8DFA-3A1EE9C2377A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB1AC56-C293-4DF7-8C7F-2D8D0C1EDB0B}
+	EndGlobalSection
+EndGlobal
